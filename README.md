@@ -12,8 +12,6 @@ To sync and manage the labels I use
 | -------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
 | https://github.com/TheBoatyMcBoatFace/github-label-manager/labels/good%20first%20issue | `#5319e7` | ids         | asl   |
 
-https://github.com/TheBoatyMcBoatFace/github-label-manager/labels/good%20first%20issue
-
 ## Inspiration
 
 The [Label Sync](https://github.com/marketplace/actions/label-sync) Github Action by @EndBug
@@ -32,3 +30,7 @@ Label Exporter - https://github.com/marketplace/actions/export-label-config
 - name: Yet another label
   color: '222222'
   aliases: ['first', 'second', 'third']
+
+https://github.com/actions/stale
+
+https://github.com/actions/labeler
