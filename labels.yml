@@ -1,0 +1,10 @@
+- name: A label
+  color: '000000'
+
+- name: Another label
+  color: '111111'
+  description: A very inspiring description
+
+- name: Yet another label
+  color: '222222'
+  aliases: ['first', 'second', 'third']
