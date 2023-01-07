@@ -2,7 +2,11 @@
 
 To sync and manage the labels I use
 
-<p align="center">## Label Groups</p>
+## Label Groups
+
+| Defaults                                            | Points                                                              | Status | Type                                         | State                                                      |
+| --------------------------------------------------- | ------------------------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------- |
+| Standard labels commonly used in most repositories. | Describes the relative effort to complete an issue or pull request. | df     | Describes the type of issue or pull request. | Describes the decision state of the issue or pull request. |
 
 ## Inspiration
 
