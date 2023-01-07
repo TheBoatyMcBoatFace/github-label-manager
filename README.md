@@ -8,6 +8,10 @@ To sync and manage the labels I use
 | --------------------------------------------------- | ------------------------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------- |
 | Standard labels commonly used in most repositories. | Describes the relative effort to complete an issue or pull request. | df     | Describes the type of issue or pull request. | Describes the decision state of the issue or pull request. |
 
+https://github.com/github/docs/labels/enhancement
+
+- https://github.com/github/docs/labels/enhancement
+
 ## Inspiration
 
 The [Label Sync](https://github.com/marketplace/actions/label-sync) Github Action by @EndBug
