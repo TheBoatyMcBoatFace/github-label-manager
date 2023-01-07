@@ -2,6 +2,8 @@
 
 To sync and manage the labels I use
 
+<p align="center">## Label Groups</p>
+
 ## Inspiration
 
 The [Label Sync](https://github.com/marketplace/actions/label-sync) Github Action by @EndBug
