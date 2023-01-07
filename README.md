@@ -10,18 +10,13 @@ Label Exporter - https://github.com/marketplace/actions/export-label-config
 
 ---
 
-name: Sync labels
-on:
-workflow_dispatch:
+- name: A label
+  color: '000000'
 
-jobs:
-labels: null
-runs-on: ubuntu-latest
-steps: - uses: EndBug/label-sync@v2
-with: null
-config-file: .github/labels.yml
-source-repo: owner/repo
-request-token: ${{ secrets.YOUR_OWN_SECRET }}
-delete-other-labels: false
-dry-run: true
-token: ${{ secrets.GITHUB_TOKEN }}
+- name: Another label
+  color: '111111'
+  description: A very inspiring description
+
+- name: Yet another label
+  color: '222222'
+  aliases: ['first', 'second', 'third']
