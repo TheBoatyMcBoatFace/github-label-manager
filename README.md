@@ -8,10 +8,6 @@ To sync and manage the labels I use
 | --------------------------------------------------- | ------------------------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------- |
 | Standard labels commonly used in most repositories. | Describes the relative effort to complete an issue or pull request. | df     | Describes the type of issue or pull request. | Describes the decision state of the issue or pull request. |
 
-https://github.com/github/docs/labels/enhancement
-
-- https://github.com/github/docs/labels/enhancement
-
 ![](https://img.shields.io/badge/-status:wip-5319e7.svg)
 ![][~comments]
 ![][~enhancement]
@@ -25,7 +21,8 @@ https://github.com/github/docs/labels/enhancement
 [~comments]: https://img.shields.io/badge/-comments-006b75.svg
 [~enhancement]: https://img.shields.io/badge/-enhancement-84b6eb.svg
 
-[![label: api][~api]](https://github.com/isaacs/github/labels/api)
+[![label: good first issue][~good first issue]](./labels/good%20first%20issue)
+
 [![label: bug][~bug]](https://github.com/isaacs/github/labels/bug)
 [![label: code review][~code review]](https://github.com/isaacs/github/labels/code%20review)
 
