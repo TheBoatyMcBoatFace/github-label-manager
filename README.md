@@ -10,7 +10,7 @@ To sync and manage the labels I use
 
 | Label | Color | Description | Alias |
 
-[./labels/good%20first%20issue]
+[/labels/good%20first%20issue]
 
 https://github.com/TheBoatyMcBoatFace/github-label-manager/labels/good%20first%20issue
 
