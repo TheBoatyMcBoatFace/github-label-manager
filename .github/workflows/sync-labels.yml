@@ -1,9 +1,11 @@
 name: Sync labels
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   sync:
+    name: Run EndBug/label-sync
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
